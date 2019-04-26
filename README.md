@@ -13,3 +13,5 @@ To run simply
 Open browser and type 
 
 `localhost: 3000`
+
+To test out different links change the URL on the middleware script.
