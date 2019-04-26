@@ -87,7 +87,6 @@ const airbnb = {
         return images;
     },
 
-
     /* Selecting amenities of the listing */
 
     getListingAmenities: async () => {
