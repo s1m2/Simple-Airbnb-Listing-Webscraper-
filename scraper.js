@@ -97,11 +97,4 @@ const airbnb = {
     }
 }
 
-
-<<<<<<< HEAD
 module.exports = airbnb;
-=======
-module.exports = {
-    fetchSite
-}
->>>>>>> 6032e8a6a91883067638b24f34c9b4228e6fecd9
